@@ -22,7 +22,7 @@ numpy==1.26.4
 packaging==24.0
 pandas==2.2.3
 pillow==10.3.0
-pipwin==0.5.3
+pipwin==0.5.2
 psutil==5.9.8
 pygame==2.5.2
 pyaudio==0.2.14  # Added PyAudio with the correct version
