@@ -22,10 +22,10 @@ numpy==1.26.4
 packaging==24.0
 pandas==2.2.3
 pillow==10.3.0
+pipwin==0.5.3
 psutil==5.9.8
-pyasn1==0.6.0
-PyAudio @ file:///C:/Users/ASUS%20Zenbook/Downloads/PyAudio-0.2.14-cp312-cp312-win_amd64.whl#sha256=12f2f1ba04e06ff95d80700a78967897a489c05e093e3bffa05a84ed9c0a7fa3
 pygame==2.5.2
+pyaudio==0.2.14  # Added PyAudio with the correct version
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.2
@@ -43,3 +43,4 @@ tzdata==2024.2
 urllib3==2.1.0
 waitress==3.0.2
 Werkzeug==3.0.3
+
